@@ -1,4 +1,4 @@
-public Calci
+public class Calci
 {
 	public int add(int i,int j)
 	{
