@@ -1,0 +1,25 @@
+[1mdiff --git a/Calci.java b/Calci.java[m
+[1mindex dc2bf1d..e70a969 100644[m
+[1m--- a/Calci.java[m
+[1m+++ b/Calci.java[m
+[36m@@ -1,12 +1,18 @@[m
+ public class Calci[m
+ {[m
+[32m+[m[41m	[m
+ 	public int add(int i,int j)[m
+ 	{[m
+ 		return i+j;[m
+ 	}[m
+ 	[m
+[31m-	public int sub int i,int j)[m
+[32m+[m	[32mpublic int susdcssdsb int i,int j)[m
+ 	{[m
+ 		return i-j;[m
+ 	}[m
+[32m+[m[41m	[m
+[32m+[m	[32mpublic int mod int i,int j)[m
+[32m+[m	[32m{[m
+[32m+[m		[32mreturn i/j;[m
+[32m+[m	[32m}[m
+ } [m
+\ No newline at end of file[m

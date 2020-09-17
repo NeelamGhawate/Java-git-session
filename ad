@@ -1,0 +1,23 @@
+[33mcommit c0ff24eebafc3e93c51224c7a5813121d4a46813[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: neelam <nilam.ghawate@gmail.com>
+Date:   Thu Sep 17 17:55:48 2020 +0530
+
+    adding calciclient file
+
+[33mcommit dc427c66be84fe5830271a6b625f2d020a50d676[m
+Author: neelam <nilam.ghawate@gmail.com>
+Date:   Thu Sep 17 17:38:30 2020 +0530
+
+    adding subtract method
+
+[33mcommit 12c4c32df4bff8424c541fe8ebef9b1a6414cd8d[m
+Author: neelam <nilam.ghawate@gmail.com>
+Date:   Thu Sep 17 17:22:05 2020 +0530
+
+    adding sum method
+
+[33mcommit 5a5cccb698481157c21f2bee541dfeff4ecc558c[m
+Author: neelam <nilam.ghawate@gmail.com>
+Date:   Thu Sep 17 17:15:27 2020 +0530
+
+    initial commit
