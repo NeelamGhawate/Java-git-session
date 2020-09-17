@@ -16,4 +16,9 @@ public class SciCalci
 	{
 		return Math.cos(a);
 	}
+	
+	public double cot(double a)
+	{
+		return Math.acot(a);
+	}
 } 
